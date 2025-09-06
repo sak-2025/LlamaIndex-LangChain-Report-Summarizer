@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+myenv/
+.env/
+.env
+
+# Index storage
+index__loc_storage/
+
+# CSV / outputs (optional, keep if you don’t want report_summary.csv in repo)
+report_summary.csv

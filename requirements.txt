@@ -1,0 +1,5 @@
+llama-index
+langchain
+openai
+PyPDF2
+pandas
