@@ -1,1 +1,1 @@
-Build a chatbot/assistant : using llama index and langchain
+hybrid LlamaIndex + LangChain pipeline
