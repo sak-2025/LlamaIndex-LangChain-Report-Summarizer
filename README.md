@@ -24,3 +24,14 @@ Extracts concise insights into bullet points.
 **Export to CSV**
 Saves summaries into report_summary.csv.
 Useful for reporting, research, or dashboards.
+
+**Project Structure**
+.
+├── data/                   # Place your reports (txt, pdf, docx) here
+├── ingestion.py            # First-time ingestion: build & persist index
+├── main.py                  # Query + summarize with LlamaIndex + LangChain
+├── report_summary.csv      # Auto-generated output
+├── requirements.txt
+└── README.md
+└── .env                    # for secret keys 
+
