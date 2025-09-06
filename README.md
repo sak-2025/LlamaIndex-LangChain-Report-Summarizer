@@ -33,5 +33,5 @@ Useful for reporting, research, or dashboards.
 ├── report_summary.csv      # Auto-generated output
 ├── requirements.txt
 └── README.md
-└── .env                    # for secret keys 
+└── .env                    # for secret keys - not available here
 
